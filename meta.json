@@ -1,0 +1,27 @@
+{
+    "meta":{
+        "name":"Bootstrap modal",
+        "slugname":"pharinix_mod_bootstrap_modal",
+        "version": "2.2.6",
+        "autor": "Copyright 2012 Jordan Schroter, Copyright (c), 2015, Pedro Pelaez (aaaaa976@gmail.com)",
+        "website": "https://github.com/PSF1/pharinix_mod_bootstrap_modal",
+        "description": "Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.",
+        "licence": "Apache License Version 2.0, January 2004"
+    },
+    "configuration": {},
+    "booting": [],
+    "bin_paths": [
+        "bin/"
+    ],
+    "nodetypes": {},
+    "sql": {},
+    "install": [],
+    "uninstall": [],
+    "requirements": {
+        "pharinix": "1.09.x"
+    },
+    "platforms":[
+        "win",
+        "linux"
+    ]
+}
